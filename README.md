@@ -6,6 +6,6 @@ This repository contains the simulation scripts, sensor data, and control logic 
 **"A Visually-Guided Wearable Robotic Arm for Assistive Grasping Tasks"**
 
 Author: Songyuan Liu  
-University ID: [Your Uni ID or initials, optional]  
+University ID: [11020972]  
 GitHub ID: @robotic-fish233  
 Report submission date: April 2025
